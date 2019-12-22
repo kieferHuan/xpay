@@ -1,0 +1,46 @@
+/target
+/.classpath
+/.project
+/build
+.DS_Store
+/.idea
+*.iml
+*.ipr
+*.iws
+.gradle/
+.arrow*
+node_modules
+/out
+*/out
+/dist
+*/build/
+!/dargue-fe/build
+classes/
+test/cache
+dargue-fe/node_modules
+.DS_Store
+node_modules
+/dist
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+gradle/
+/gradlew
+*.bat
+npm-debug.log
+
